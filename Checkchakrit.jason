@@ -1,0 +1,25 @@
+{
+"Version":"3.8",
+"Url":"https://github.com/kathawutGT/chak/raw/master/ch.zip" ,
+"Changelog":"
+รายระเอียดการอัพเดตไฟล์อัพเดตเมื่อ13/7/63
+
+รองรับการใช้งาน
+-True
+
+เซิร์ฟที่มี
+-SG
+
+
+-ตอนอัพเดทควรมีอินเทอร์เน็ต
+-กดตกลงเพื่ออัพเดต
+
+",
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo" 
+  ]
+}
